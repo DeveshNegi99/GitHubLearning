@@ -1,3 +1,4 @@
-I want to check this, how it is working .
-now it is modified file and now i am checking it.
-
+Hey, Developers,
+It was my first file when i was learning git
+Right now we have to update this one and check again.
+i am going to pull it from the bash.
