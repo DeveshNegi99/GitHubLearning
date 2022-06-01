@@ -1,2 +1,4 @@
 hello brother, how are ryou today 
 what are you working.
+You have to push this file from the bash side.
+If successfully added then go ahead.
