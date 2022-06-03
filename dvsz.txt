@@ -1,3 +1,4 @@
 HEy, Developers whats going on today, 
 If you have any huddle please let me know.
+git pull -u origin master. to push the code content from bash to GitHub.
 In this saturday we are organizing Knowledge Sharing session please be there.
