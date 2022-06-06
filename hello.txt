@@ -1,3 +1,5 @@
 Repository :-->   Which we want to track that is called repository.
 Untracked..Unmodified..Modified..Staged
 Skip staging alert.
+A power-packed General studies and current affairs package.
+It was written by tarun Goyal.
