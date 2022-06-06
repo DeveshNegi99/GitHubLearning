@@ -1,0 +1,3 @@
+Repository :-->   Which we want to track that is called repository.
+Untracked..Unmodified..Modified..Staged
+Skip staging alert.
